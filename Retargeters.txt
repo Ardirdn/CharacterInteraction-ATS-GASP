@@ -1,0 +1,19 @@
+RTG_UEFN_to_UE5_Mannequin_Ledge
+
+	- Ledge Climbing
+	- Ladder Climbing
+	- BeamWalk
+	- NarrowPath
+	- WallRun
+
+RTG_UEFN_to_UE5_Mannequin_Wall
+
+	- Wall Climbing
+
+RTG_UE4_Mannequin_to_UEFN_Swim
+
+	- Swimming
+	- Sliding
+	- Rope Climbing
+	- Zipline
+	- PushPull
